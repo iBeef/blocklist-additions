@@ -1,0 +1,12 @@
+# Title: Blocklist Additions
+# Description: Additional blocklist entries taken from d3ward adblock tester.
+# Last modified: Fri, 30 Dec 2022, 08:29
+# Version: 2022.12.30.0
+# Creator: ibeef
+#
+# Ads
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 amazonaax.com
+0.0.0.0 https://amazonclix.com
